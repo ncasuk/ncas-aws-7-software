@@ -10,8 +10,8 @@ Usage
 
 To run the script you are required to have a source and output directory 
 
-you can then copy or symlink all your dat files into the source directory and run 
+You will then need to copy or symlink campbell dat files into the source directory and run 
 
 ``./sort_dat_files``
 
-this calls the combined.py script and then the split_by_year.py
+this calls the combined.py and then the split_by_year.py
