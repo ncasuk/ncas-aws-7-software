@@ -1,5 +1,5 @@
 =========================================================
-SCRIPT TO COMBINE ALL CAMPBELL .DAT FILES TO YEARLY FILES
+COMBINE ALL CAMPBELL .DAT FILES TO YEARLY FILES
 =========================================================
 
 This script will read in all .dat files in the source directory and combine them into one file. It will then sort them into date order and remove duplicate entries. 
