@@ -1,6 +1,6 @@
 #!/nfs/foe-data-32/export/ncas/lecjlg/Documents/anaconda3/bin/python
 
-src_path = "/home/lecjlg/random-scripts/datfiles/output/"
+src_path = "output/"
 main_file = "sorted.csv"
 import csv
 import collections

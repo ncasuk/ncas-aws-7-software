@@ -9,7 +9,7 @@ rm sorted.csv
 python combined.py
 
 #---create a new file with all the data sorted in date order.
-cat combined.csv |sort > sorted.csv
+cat combined.csv |sort |uniq > sorted.csv
 
 #---delete the unsorted file
 rm combined.csv
